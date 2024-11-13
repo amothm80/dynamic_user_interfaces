@@ -23,7 +23,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": {
+  "description":"",
+  "dependencies": {
     "date-fns": "^4.1.0",
     "uuid": "^11.0.3"
   }
